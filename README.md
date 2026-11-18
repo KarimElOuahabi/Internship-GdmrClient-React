@@ -2,7 +2,7 @@
 
 Web client for **GDMR**, an occupational health visit management platform. It has role-specific dashboards for admins, HR, doctors and employees, with live notifications.
 
-Built during my internship at SQLI. The API lives in [gdmr-backend](https://github.com/KarimElOuahabi/gdmr-backend).
+Built during my internship at SQLI. The API lives in [Internship-GdmrApi-SpringBoot](https://github.com/KarimElOuahabi/Internship-GdmrApi-SpringBoot).
 
 ## Features
 
@@ -30,7 +30,7 @@ src/
 
 ## Running locally
 
-Requirements: Node.js 20+ and the [backend](https://github.com/KarimElOuahabi/gdmr-backend) running on port 8080.
+Requirements: Node.js 20+ and the [backend](https://github.com/KarimElOuahabi/Internship-GdmrApi-SpringBoot) running on port 8080.
 
 ```bash
 cp .env.example .env   # VITE_API_URL=http://localhost:8080/api
@@ -42,4 +42,4 @@ Other scripts: `npm run build`, `npm run lint`, `npm run preview`.
 
 ## Related
 
-- Backend: [gdmr-backend](https://github.com/KarimElOuahabi/gdmr-backend)
+- Backend: [Internship-GdmrApi-SpringBoot](https://github.com/KarimElOuahabi/Internship-GdmrApi-SpringBoot)
